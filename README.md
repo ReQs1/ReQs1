@@ -1,4 +1,3 @@
 ### Hi there 👋
 
-## Things I work with
-typescript/react/nextjs/tailwind/styled-components/redux/postgreSQL
+typescript/react/nextjs/tailwind/redux/postgreSQL
