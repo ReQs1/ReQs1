@@ -1,4 +1,5 @@
-<div align="center">
-<img height="240" src="https://media1.tenor.com/m/eTR29ucM1aEAAAAC/123-pepe-the-frog.gif"  />
-</div>
+# 👋 Hi there!
 
+Currently cooking up **avpnMap** 🍕 — a global map of AVPN pizzerias where you can track visits, drop reviews, and chase the leaderboard.
+
+⚡ Built with React + TypeScript + Tailwind (frontend) and NestJS + PostgreSQL (backend).
